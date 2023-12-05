@@ -1,0 +1,175 @@
+E:\C#\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe.config
+E:\C#\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe
+E:\C#\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.pdb
+E:\C#\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.AssemblyReference.cache
+E:\C#\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Form1.resources
+E:\C#\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Properties.Resources.resources
+E:\C#\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.GenerateResource.cache
+E:\C#\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.CoreCompileInputs.cache
+E:\C#\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.exe
+E:\C#\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.pdb
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe.config
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.pdb
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.AssemblyReference.cache
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Form1.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Properties.Resources.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.GenerateResource.cache
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.CoreCompileInputs.cache
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.exe
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.pdb
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLySach.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyDocGia.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyMuonTra.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyNhanVien.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyThongKe.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe.config
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.pdb
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.AssemblyReference.cache
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Form1.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Properties.Resources.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyDocGia.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyMuonTra.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyNhanVien.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLySach.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyThongKe.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.GenerateResource.cache
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.exe
+C:\Users\Admi8n\Desktop\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.pdb
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.AssemblyReference.cache
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Form1.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Properties.Resources.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyDocGia.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyMuonTra.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyNhanVien.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLySach.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyThongKe.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.GenerateResource.cache
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.CoreCompileInputs.cache
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.exe
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.pdb
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe.config
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.pdb
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe.config
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.pdb
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.AssemblyReference.cache
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Form1.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Properties.Resources.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyDocGia.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyMuonTra.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyNhanVien.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLySach.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyThongKe.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.GenerateResource.cache
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.CoreCompileInputs.cache
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.exe
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.pdb
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\DA.Login.resources
+C:\DBMS\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.TaiKhoan.resources
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.AssemblyReference.cache
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Form1.resources
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\DA.Login.resources
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Properties.Resources.resources
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyDocGia.resources
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyMuonTra.resources
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyNhanVien.resources
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLySach.resources
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyThongKe.resources
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.TaiKhoan.resources
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.GenerateResource.cache
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.exe
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.pdb
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe.config
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe
+C:\Users\Admi8n\Downloads\Nhom8_QLTV (1)\Nhom8_QLTV (1)\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.pdb
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe.config
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.pdb
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.AssemblyReference.cache
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Form1.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\DA.Login.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Properties.Resources.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyDocGia.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyMuonTra.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyNhanVien.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLySach.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyThongKe.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.TaiKhoan.resources
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.GenerateResource.cache
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.exe
+C:\Users\Admi8n\Desktop\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.pdb
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe.config
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.pdb
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.AssemblyReference.cache
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Form1.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\DA.Login.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Properties.Resources.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyDocGia.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyMuonTra.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyNhanVien.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLySach.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyThongKe.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.TaiKhoan.resources
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.GenerateResource.cache
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.CoreCompileInputs.cache
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.exe
+C:\DBMS\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.pdb
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe.config
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.pdb
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.AssemblyReference.cache
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.SuggestedBindingRedirects.cache
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Form1.resources
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\DA.Login.resources
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Properties.Resources.resources
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyDocGia.resources
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyMuonTra.resources
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyNhanVien.resources
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLySach.resources
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyThongKe.resources
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.TaiKhoan.resources
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.GenerateResource.cache
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.CoreCompileInputs.cache
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.exe
+E:\HOCTAP\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.pdb
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe.config
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.pdb
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.AssemblyReference.cache
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\DA.Login.resources
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Properties.Resources.resources
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyDocGia.resources
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyMuonTra.resources
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyNhanVien.resources
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLySach.resources
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyThongKe.resources
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.TaiKhoan.resources
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.GenerateResource.cache
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.CoreCompileInputs.cache
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.exe
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.pdb
+C:\Users\Admi8n\Desktop\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Home.resources
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe.config
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.exe
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\bin\Debug\Nhom8_QLTV.pdb
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.AssemblyReference.cache
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Home.resources
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\DA.Login.resources
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.Properties.Resources.resources
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyDocGia.resources
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyMuonTra.resources
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyNhanVien.resources
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLySach.resources
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.QuanLyThongKe.resources
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.TaiKhoan.resources
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.GenerateResource.cache
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.csproj.CoreCompileInputs.cache
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.exe
+C:\DBMS\LAnhhh\LAnhhh\Nhom8_QLTV\Nhom8_QLTV\obj\Debug\Nhom8_QLTV.pdb
